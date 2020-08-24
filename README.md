@@ -1,5 +1,5 @@
 
-<h1 align="center">WordPress Top 100 Beaver Plugins</h1>
+<h1 align="center">WordPress Top 100 Beaver Builder Plugins</h1>
 
 <p align="center">
   Browse the top 100 plugins from the WordPress repository.
@@ -163,5 +163,5 @@ A &hellip; <small><i>Last updated 7 days - 2020-08-17 1:21pm GMT</i></small>
 ----
 
 <p align="right">
-  <i>Last updated 24 Aug 2020 11:08:30.</i>
+  <i>Last updated 24 Aug 2020 11:08:13.</i>
 </p>
